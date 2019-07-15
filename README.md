@@ -1,5 +1,4 @@
-# CIB
-工商银行银企直连系统开发接口，nodejs版
+# 兴业银行银企直连系统开发接口，nodejs版
 ```
 //查询主账号余额
 let test2 = async (obj)=>{
